@@ -23,7 +23,11 @@ Developing the Next Generation of Top Security Leaders in Korea
 
   
 ## Project duration
-Sep 02, 2023 ~ Dec 16, 2023
+Duration|Presentation|
+|------|---|
+|Sep 2, 2023 - Oct 21, 2023|First|
+|Oct 22, 2023 - Nov 18, 2023|Second|
+|Nov 19, 2023 - Dec 16, 2023|Final|
 
 ## Project Goals
 Our goal is to add at least 3 new scenarios to an open source project called Cloudgoat.
