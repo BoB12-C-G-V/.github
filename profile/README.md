@@ -30,7 +30,4 @@ Duration|Presentation|
 |Nov 19, 2023 - Dec 16, 2023|Final|
 
 ## Project Goals
-Our goal is to add at least 3 new scenarios to an open source project called Cloudgoat.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoB12-C-G-V)](https://github.com/anuraghazra/github-readme-stats)
+Our goal is to add at least 3 new scenarios to an open source project called [Cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)🐐.
