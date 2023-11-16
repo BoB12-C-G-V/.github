@@ -12,7 +12,7 @@
 -->
 # Team C.G.V
 
-This is a team of 12 BoB trainees. Formed to study cloud security.  
+This is a team of BoB 12th trainees. Formed to study cloud security.  
 
 
 ## What is BoB?
