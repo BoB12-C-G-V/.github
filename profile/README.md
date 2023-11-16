@@ -13,7 +13,7 @@
 # Team C.G.V
 
 This is a team of 12 BoB trainees. Formed to study cloud security.  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoB12-C-G-V)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## What is BoB?
 
@@ -27,3 +27,6 @@ Sep 02, 2023 ~ Dec 16, 2023
 
 ## Project Goals
 Our goal is to add at least 3 new scenarios to an open source project called Cloudgoat.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoB12-C-G-V)](https://github.com/anuraghazra/github-readme-stats)
